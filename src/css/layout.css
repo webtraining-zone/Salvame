@@ -1,0 +1,13 @@
+
+.b-header {
+    background-color: #EF3E42;
+}
+.b-header.navbar {
+        background-color: #EF3E42;
+        padding: 0;
+}
+.b-header a {
+    color: white;
+    min-height: 40px;
+}  
+   
