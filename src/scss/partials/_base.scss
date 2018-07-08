@@ -1,19 +1,7 @@
 /*@import "variables";*/
 body {
-    //font-family: 'Asap Condensed', sans-serif;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Asap Condensed', sans-serif;
+    //font-family: 'Open Sans', sans-serif;
     background-color: $color-gray;
 }
-.b-header {
-   background-color: #EF3E42;
-} 
 
-.b-header .navbar {
-    background-color: #EF3E42;
-    padding: 0;
-}   
-
-.b-header a {
-    color: white;
-    min-height: 60px;
-}
