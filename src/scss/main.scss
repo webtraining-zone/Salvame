@@ -1,5 +1,7 @@
-// Our custom variables and base CSS
-//
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+
+// APP´S STYLES
 @import "partials/variables";
 @import "partials/base";
 @import "partials/layout";

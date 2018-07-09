@@ -2,7 +2,6 @@
 .b-header {
     background-color: $color-red;
 
-
 .navbar {
         background-color: $color-red;
         padding: 0;
@@ -17,15 +16,18 @@
 .oi {
     color: white;
 }
+
 }
 .b-footer {
     background-color: $color-blue;
     color: white;
 
 }
-   
-
-hr.style1{
-    border-top: 3px solid $color-red;
+.style1{
+    border-top: 5px solid $color-red;
     
 }
+.card-height{
+
+    height:450px;
+}  
