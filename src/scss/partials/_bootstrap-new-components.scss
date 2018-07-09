@@ -1,0 +1,28 @@
+@import "variables";
+.b-panel {
+    &__heading {
+      background-color: $color-blue;
+      border: solid 1px #00060b;
+      color: white;
+      min-height: 30px;
+      padding: 10px 20px;
+    }
+    &__body {
+      background-color: #ffffff;
+      border: solid 1px #d9dddf;
+      padding: 10px 20px;
+    }
+  
+  }
+
+  .b-panel-uno {
+    &__heading {
+      background-color: $color-red;
+      border: solid 1px #00060b;
+      color: white;
+      min-height: 30px;
+      padding: 10px 20px;
+    }
+   
+  
+  }
