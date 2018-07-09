@@ -3,15 +3,19 @@ body {
     font-family: $font-family-primary;
     background-color: $color-white;
 
-h1{ 
+.h1{ 
     font-family: $font-family-primary;
     font-size: $font-size-h1;
     font-weight: $font-weight-h1;
 }
 
-h2{ 
+.h2{ 
     font-size: $font-size-h2;
     font-family: $font-family-h2;
     font-weight: $font-weight-h2;
+    color: $color-red;
 }
+.a {
+    color: $color-white;
+} 
 }

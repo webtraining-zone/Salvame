@@ -3,12 +3,12 @@
     &__heading {
       background-color: $color-blue;
       border: solid 1px #00060b;
-      color: white;
+      color: $color-white;
       min-height: 30px;
       padding: 10px 20px;
     }
     &__body {
-      background-color: #ffffff;
+      background-color: $color-white;
       border: solid 1px #d9dddf;
       padding: 10px 20px;
     }
@@ -19,7 +19,7 @@
     &__heading {
       background-color: $color-red;
       border: solid 1px #00060b;
-      color: white;
+      color: $color-white;
       min-height: 30px;
       padding: 10px 20px;
     }

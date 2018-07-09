@@ -8,19 +8,24 @@
         min-height:40px;
 }
 
-
  a {
-    color: white;
+    color: $color-white;
     min-height: 40px;
-}  
+} 
+
+a:hover {
+    font-size:20px;
+    color:$color-white;
+}
+
 .oi {
-    color: white;
+    color: $color-white;
 }
 
 }
 .b-footer {
     background-color: $color-blue;
-    color: white;
+    color: $color-white;
 
 }
 .style1{
