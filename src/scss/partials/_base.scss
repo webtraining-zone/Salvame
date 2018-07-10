@@ -18,4 +18,11 @@ body {
 .a {
     color: $color-white;
 } 
+p#par{
+    position:absolute;
+    font-size: $font-size-h2;
+    color: $color-white;
+    margin-top: $mt;
+    padding-left: $panding;
+} 
 }

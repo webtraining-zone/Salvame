@@ -2,7 +2,6 @@
 .b-panel {
     &__heading {
       background-color: $color-blue;
-      border: solid 1px #00060b;
       color: $color-white;
       min-height: 30px;
       padding: 10px 20px;
@@ -18,9 +17,8 @@
   .b-panel-uno {
     &__heading {
       background-color: $color-red;
-      border: solid 1px #00060b;
       color: $color-white;
-      min-height: 30px;
+      min-height: 0px;
       padding: 10px 20px;
     }
    
